@@ -13,7 +13,13 @@ Class syllabus and assets
 
 ## Assignments 
 
+1. [PDDL Formalisation](https://github.com/pucrs-automated-planning/pddl-formalization)
+2. [HTN Formalisation](https://github.com/pucrs-automated-planning/htn-formalization)
+3. [MDP](#)
+4. [Final Assignment](#)
 
 ## Tasks
-- [ ] TODO Fill in assignments schedule with Links
-- [ ] TODO Move class schedule here
+- [ ] Fill in assignments schedule with Links
+- [ ] Move class schedule here
+- [ ] Redo assignment on MDPs
+- [ ] Create repository with sample projects for final assignment
