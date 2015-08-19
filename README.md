@@ -1,4 +1,5 @@
 # Syllabus for Automated Planning
+![Course Logo](/assets/strategy.svg "Let's plan!")
 Class syllabus and assets
 
 ## Syllabus
