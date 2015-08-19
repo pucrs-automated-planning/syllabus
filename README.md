@@ -1,5 +1,5 @@
 # Syllabus for Automated Planning
-![Course Logo](/assets/strategy.svg "Let's plan!")
+![Course Logo](https://cdn.rawgit.com/pucrs-automated-planning/syllabus/master/assets/strategy.svg "Let's plan!")
 Class syllabus and assets
 
 ## Syllabus
