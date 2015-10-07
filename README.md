@@ -3,6 +3,7 @@ Class syllabus and assets
 
 ## Syllabus
 
+A detailed [syllabus](syllabus.md) is included separately. 
 - Unit 1 - Classical planning
 - Unit 2 - Hierarchical planning (HTN/HGN)
 - Unit 3 - Stochastic (FOND) planning and Reinforcement Learning
