@@ -1,10 +1,10 @@
-| **PROGRAM:** MSc and PhD in Computer Science |
+**PROGRAM:** MSc and PhD in Computer Science
 
-| **MODULE:** Automated Planning |
+**MODULE:** Automated Planning
 
-| **CODE:** 54600-02 | **CREDITS:** 02 | **TOTAL HOURS:** 30 hours|
+**CODE:** 54600-02 **CREDITS:** 02 **TOTAL HOURS:** 30 hours 
 
-| **VALID:** From 20013/II |
+**VALID:** From 20013/II
 
 
 ## OBJECTIVES: 
