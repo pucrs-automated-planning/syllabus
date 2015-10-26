@@ -9,7 +9,6 @@ A detailed [syllabus](syllabus.md) is included separately.
 - Unit 3 - Stochastic (FOND) planning and Reinforcement Learning
 - Unit 4 - Applications of Planning
 
-
 ## Assignments 
 
 1. [PDDL Formalisation](https://github.com/pucrs-automated-planning/pddl-formalization)
@@ -24,6 +23,8 @@ A detailed [syllabus](syllabus.md) is included separately.
 - [ ] Create repository with sample projects for final assignment
 
 ## Class Schedule
+
+For abstract plan, see the [lectures repository](https://github.com/pucrs-automated-planning/lectures/).
 
 <table>
 <tbody>
