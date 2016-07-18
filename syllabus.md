@@ -10,9 +10,9 @@
 ## OBJECTIVES: 
 A student who completes this course should be able to:
 
-1.  Understand the main formalisms used for automated planning and the assumptions behind these formalisms.
+1.  Understand the main formalisms used for automated planning and the assumptions behind these formalisms;
 
-2.  Understand modern algorithms to solve automated planning problems and basic optimization techniques that can be applied to these algorithms.
+2.  Understand modern algorithms to solve automated planning problems and basic optimization techniques that can be applied to these algorithms; and
 
 3.  Apply automated planning systems to solve real-world problems
 
