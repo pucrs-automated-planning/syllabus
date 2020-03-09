@@ -1,10 +1,10 @@
 **PROGRAM:** MSc and PhD in Computer Science
  
-**MODULE:** Automated Planning
+**MODULE:** Automated Planning / AI Planning
 
 **CODE:** 54600-02 **CREDITS:** 02 **TOTAL HOURS:** 30 hours 
 
-**VALID:** From 20013/II
+**VALID:** From 20020/I
 
 
 ## OBJECTIVES: 
@@ -22,47 +22,36 @@ Automated planning: formalisms and assumptions. Classical planning: formalisms a
 
 UNIT: 01
 
-CONTENT: Introduction and context
+CONTENT: Search and Classical Planning
 
 1.  Search algorithms
-
-2.  Heuristics
-
-3.  Complexity of search algorithms
-
-4.  Classical planning
+2.  Complexity of planning problems
+3.  Classical planning
+4.  Planning Heuristics
 
 UNIT: 02
 
-CONTENT: HTN Planning
+CONTENT: Hierarchical Planning
 
 1.  Hierarchical task network formalism
-
 2.  Problem formalization
-
-3.  SHOP Algorithm
+3.  Total Order and Partial Order forward decomposition Algorithms
 
 UNIT: 03
 
-CONTENT: Stochastic Planning
+CONTENT: Stochastic (FOND) Planning
 
 1.  Decision Theory
-
 2.  Markov Decision Processes (MDP)
-
 3.  MDP solvers
-
 4.  Reinforcement Learning
 
 UNIT: 04
-
 CONTENT: Applications of automated planning
 
-1.  Problem modeling
-
+1.  Problem Modeling
 2.  Planning in agent programming languages
-
-3.  Planning in multiagent Systems
+3.  Goal and Plan Recognition
 
 ## REFERENCES
 
@@ -73,21 +62,20 @@ CONTENT: Applications of automated planning
 -   REFERENCE BOOK(S)
 
 	1.  RUSSELL, S. J.; NORVIG, P. Artificial Intelligence – a Modern Approach. 3ed. New Jersey: Prentice Hall, 2003. 932p.
+	2. GEFFNER, H.; BONET, B. A Concise Introduction to Models and Methods for Automated Planning. Morgan & Claypool, 2013, 143p.
+	3. HASLUM, P.; LIPOVETZKY, N.; MAGAZZENI, D.; MUISE, Christian. An Introduction to the Planning Domain Definition Language. Morgan & Claypool, 2019, 168p.
 
 -   OTHER REFERENCES
 
 	1.  Selected papers
-	
 	2.  Websites related to the course
-	
 	3.  <https://github.com/pucrs-automated-planning>
 
 -   SOFTWARE
 
-	1.  PDDL4J *http://pddl4j.sf.net*
-	
-	2.  JSHOP2 <http://www.cs.umd.edu/projects/shop/>
-	
-	3.  JavaGP <http://emplan.sourceforge.net>
+	1.  Planning domains <http://editor.planning.domains>
+	2. PDDL4J *http://pddl4j.sf.net*
+	3.  JSHOP2 <http://www.cs.umd.edu/projects/shop/>
+	4.  JavaGP <http://emplan.sourceforge.net>
 
 
