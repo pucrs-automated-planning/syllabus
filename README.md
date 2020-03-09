@@ -19,8 +19,8 @@ A detailed [syllabus](syllabus.md) is included separately.
 ## Tasks
 - [x] Fill in assignments schedule with Links
 - [x] Move class schedule here
-- [ ] Redo assignment on MDPs
-- [ ] Create repository with sample projects for final assignment
+- [x] Redo assignment on MDPs
+- [x] Create repository with sample projects for final assignment
 
 ## Class Schedule
 
