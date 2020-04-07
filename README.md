@@ -16,12 +16,6 @@ A detailed [syllabus](syllabus.md) is included separately.
 3. [MDP](https://github.com/pucrs-automated-planning/mdp)
 4. [Final Assignment](https://github.com/pucrs-automated-planning/final)
 
-## Tasks
-- [x] Fill in assignments schedule with Links
-- [x] Move class schedule here
-- [x] Redo assignment on MDPs
-- [x] Create repository with sample projects for final assignment
-
 ## Class Schedule
 
 For abstract plan, see the [lectures repository](https://github.com/pucrs-automated-planning/lectures/).
