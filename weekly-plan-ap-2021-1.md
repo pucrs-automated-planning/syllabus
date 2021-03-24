@@ -33,7 +33,7 @@ Lecture 2 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 3 - Build slido
+Lecture 3 - (<https://app.sli.do/event/gqgbh1hg>)
 
 - Understand the [Planning Domain Definition Language](https://planning.wiki/ref/pddl) (PDDL)
 - Model a simple domain using PDDL
