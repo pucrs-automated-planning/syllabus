@@ -44,4 +44,12 @@ Lecture 3 - (<https://app.sli.do/event/gqgbh1hg>)
 
 ## Week 4
 
-TBD
+Weekly Goals:
+
+Lecture 4 - No synchronous meeting
+
+- Progression and regression search
+- Induced state space
+- Comparison of the induced state spaces
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2064663&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2064676&redirect=1>
