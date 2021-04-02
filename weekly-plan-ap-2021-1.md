@@ -53,3 +53,15 @@ Lecture 4 - No synchronous meeting
 - Comparison of the induced state spaces
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2064663&redirect=1>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2064676&redirect=1>
+
+## Week 5
+
+Weekly Goals:
+
+Lecture 5 - No synchronous meeting
+
+- Heuristic Search-based planning algorithms
+- Planning heuristics
+- Relaxations of planning problems
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028766&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2064715&redirect=1>
