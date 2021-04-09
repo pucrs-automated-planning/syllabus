@@ -65,3 +65,17 @@ Lecture 5 - No synchronous meeting
 - Relaxations of planning problems
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028766&redirect=1>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2064715&redirect=1>
+
+## Week 6
+
+Weekly Goals:
+
+Lecture 6 - No synchronous meeting
+
+- Planning Heuristics I
+- Critical Path Heuristics
+  - Singleton Critical Paths
+  - Generalized Critical Paths
+  - Iterative Algorithms to Compute $h^{m}$
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028768&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2072053&redirect=1>
