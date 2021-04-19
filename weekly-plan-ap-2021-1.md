@@ -79,3 +79,43 @@ Lecture 6 - No synchronous meeting
   - Iterative Algorithms to Compute $h^{m}$
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028768&redirect=1>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2072053&redirect=1>
+
+## Week 7
+
+Weekly Goals:
+
+Lecture 7 - No synchronous meeting
+
+- Planning Heuristics II
+- Delete Relaxation Heuristics
+  - Delete Relaxations and the Delete Relaxed Heuristic
+  - Max Heuristic and Additive Heuristic
+  - Relaxed Plan Extraction
+  - The Fast Forward / Relaxed Plan Heuristic
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028770&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2079572&redirect=1>
+
+## Week 8
+
+Weekly Goals:
+
+Lecture 8 - No synchronous meeting
+
+- Planning Heuristics III
+- Landmark Heuristics
+  - Fact and Action Landmarks
+  - Canonical Landmark Heuristic
+  - LM-Cut heuristic
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028771&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2086910&redirect=1>
+
+## Week 9
+
+Lecture 9 - PDBs and Operator Counting?
+
+- a?
+
+
+## Week 9/10
+
+- Project assignment 
