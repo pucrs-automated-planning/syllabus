@@ -1,13 +1,13 @@
-# Weekly Plans - AI Planning
+# Weekly Plans -- AI Planning
 
 ## Week 1
 
 Welcome to the AI Planning course. You will notice that all the material, including slides and videos are already available in the course Moodle area, or will be updated shortly.
-Regardless of the pace in which you want to consume the course, we will use our weekly appointments to coordinate the course progress, as we would in in-person classes. Before each week, I will send out our weekly plan, indicating the materials we will work on, and when we will have a synchronous video-lecture. Such video-lecture will include problem solving and online quizzes. Below, you will can check out our weekly plan.
+Regardless of the pace in which you want to consume the course, we will use our weekly appointments to coordinate the course progress, as we would in in-person classes. Before each week, I will send out our weekly plan, indicating the materials we will work on, and when we will have a synchronous video-lecture. Such video-lecture will include problem-solving and online quizzes. Below, you can check out our weekly plan.
 
 Weekly Goals:
 
-Lecture 1 (<https://app.sli.do/event/f3oiaayy>)
+Lecture 1 -- (<https://app.sli.do/event/f3oiaayy>)
 
 - Introduce the course, lecture dynamics and evaluation criteria
 - Understand the context of the course
@@ -22,7 +22,7 @@ Lecture 1 (<https://app.sli.do/event/f3oiaayy>)
 
 Weekly Goals:
 
-Lecture 2 - No synchronous meeting
+Lecture 2 -- No synchronous meeting
 
 - Understand planning formalisms
 - Reflect on the tradeoffs between STRIPS and FDR encodings
@@ -33,7 +33,7 @@ Lecture 2 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 3 - (<https://app.sli.do/event/gqgbh1hg>)
+Lecture 3 -- (<https://app.sli.do/event/gqgbh1hg>)
 
 - Understand the [Planning Domain Definition Language](https://planning.wiki/ref/pddl) (PDDL)
 - Model a simple domain using PDDL
@@ -46,7 +46,7 @@ Lecture 3 - (<https://app.sli.do/event/gqgbh1hg>)
 
 Weekly Goals:
 
-Lecture 4 - No synchronous meeting
+Lecture 4 -- No synchronous meeting
 
 - Progression and regression search
 - Induced state space
@@ -58,7 +58,7 @@ Lecture 4 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 5 - No synchronous meeting
+Lecture 5 -- No synchronous meeting
 
 - Heuristic Search-based planning algorithms
 - Planning heuristics
@@ -70,10 +70,10 @@ Lecture 5 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 6 - No synchronous meeting
+Lecture 6 -- No synchronous meeting
 
 - Planning Heuristics I
-- Critical Path Heuristics
+- Critical-Path Heuristics
   - Singleton Critical Paths
   - Generalized Critical Paths
   - Iterative Algorithms to Compute $h^{m}$
@@ -84,7 +84,7 @@ Lecture 6 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 7 - No synchronous meeting
+Lecture 7 -- No synchronous meeting
 
 - Planning Heuristics II
 - Delete Relaxation Heuristics
@@ -99,7 +99,7 @@ Lecture 7 - No synchronous meeting
 
 Weekly Goals:
 
-Lecture 8 - No synchronous meeting
+Lecture 8 -- No synchronous meeting
 
 - Planning Heuristics III
 - Landmark Heuristics
@@ -111,11 +111,16 @@ Lecture 8 - No synchronous meeting
 
 ## Week 9
 
-Lecture 9 - PDBs and Operator Counting?
+Lecture 9 -- No synchronous meeting
 
-- a?
+- Planning Heuristics IV
+- Abstraction Heuristics
+  - Practical vs. Pathological Heuristics
+  - Additive Abstractions
+  - Abstraction Refinements
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2118684&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2118685&redirect=1>
 
-
-## Week 9/10
+## Week 10
 
 - Project assignment 
