@@ -123,4 +123,7 @@ Lecture 9 -- No synchronous meeting
 
 ## Week 10
 
-- Project assignment 
+Lecture 10 -- Project assignment presentations
+
+- Student presentations, following the [Schedule](https://github.com/pucrs-automated-planning/term-projects-2021/blob/main/README.md)
+- Please create a pull request in the [Term Projects 2021](https://github.com/pucrs-automated-planning/term-projects-2021) git repository changing **only the folder with your surname in**, including the slides and the 2-pager containing your proposal.
