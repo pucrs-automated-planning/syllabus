@@ -140,3 +140,11 @@ Lecture 11 -- No synchronous meeting
 - Hierarchical Goal Network Planning (HGN)
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2122519&redirect=1>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2132869&redirect=1>
+
+## Week 12
+
+Lecture 12 -- No synchronous meeting
+
+- Practical Lab on Hierarchical Planning (due in one week)
+- GitHub Link: <https://github.com/pucrs-automated-planning/htn-formalization>
+- Hand in Link: <https://moodle.pucrs.br/mod/assign/view.php?id=2028778>
