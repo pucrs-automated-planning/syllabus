@@ -148,3 +148,19 @@ Lecture 12 -- No synchronous meeting
 - Practical Lab on Hierarchical Planning (due in one week)
 - GitHub Link: <https://github.com/pucrs-automated-planning/htn-formalization>
 - Hand in Link: <https://moodle.pucrs.br/mod/assign/view.php?id=2028778>
+
+## Week 13
+
+Lecture 13 -- Synchronous Meeting
+
+- Goal and Plan Recognition
+- Plan Recognition
+  - Plan Libraries
+  - Plan Recognition as Planning
+- Goal Recognition
+  - Goal Recognition using Heuristics
+- Hierarchical Goal Network Planning (HGN)
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028779&redirect=1>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2132869&redirect=1>
+- Artigo: <https://moodle.pucrs.br/mod/resource/view.php?id=2144680>
+- Video Suplementar: <https://moodle.pucrs.br/mod/url/view.php?id=2144677>
