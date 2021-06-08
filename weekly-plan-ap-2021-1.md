@@ -159,8 +159,19 @@ Lecture 13 -- Synchronous Meeting
   - Plan Recognition as Planning
 - Goal Recognition
   - Goal Recognition using Heuristics
-- Hierarchical Goal Network Planning (HGN)
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2028779&redirect=1>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2132869&redirect=1>
 - Artigo: <https://moodle.pucrs.br/mod/resource/view.php?id=2144680>
 - Video Suplementar: <https://moodle.pucrs.br/mod/url/view.php?id=2144677>
+
+## Week 14
+
+Lecture 14 -- Synchronous Meeting
+
+- Expected Utilities and Lotteries
+- Stochastic Planning
+  - Markov Decision Processes (MDPs)
+  - Algorithms
+  - Partially Observable MDPs (POMDPs)
+- Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2146845>
+- Video: <https://moodle.pucrs.br/mod/url/view.php?id=2146849>
