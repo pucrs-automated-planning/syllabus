@@ -175,3 +175,14 @@ Lecture 14 -- Synchronous Meeting
   - Partially Observable MDPs (POMDPs)
 - Slides: <https://moodle.pucrs.br/mod/resource/view.php?id=2146845>
 - Video: <https://moodle.pucrs.br/mod/url/view.php?id=2146849>
+
+## Week 15
+
+Lecture 15 -- Synchronous Meeting
+
+- Work on Final Assignment
+- Submit final assignment abstract by the 21 June
+  - EasyChair submission site: <https://easychair.org/conferences/?conf=ap2021>
+- Submit final assignment paper by the 28 June
+  - EasyChair submission site: <https://easychair.org/conferences/?conf=ap2021>
+- Presentation on the 30 June (Teams)
